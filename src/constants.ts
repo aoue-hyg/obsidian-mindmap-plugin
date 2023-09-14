@@ -1,7 +1,8 @@
-import { PluginSettings } from "./settings"
+import { PluginSettings } from "./Settings"
 
 export const PLUGIN_VIEW_TYPE = 'mindmap-plugin-view'
 
+// todo addIcon
 export const RIBBON_ICON_NAME = 'dice'
 
 export const DEFAULT_SETTINGS: PluginSettings = {
